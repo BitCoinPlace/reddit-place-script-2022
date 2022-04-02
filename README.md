@@ -1,8 +1,8 @@
-# Monero r/place bot
+# Bitcoin r/place bot
 
 ## About
 
-This is a script to draw Monero's logo into r/place (<https://www.reddit.com/r/place/>).
+This is a script to draw Bitcoin's logo into r/place (<https://www.reddit.com/r/place/>).
 
 ## Features
 
