@@ -572,6 +572,6 @@ for i in range(num_credentials):
 
 def imgUpdate():
 	img_data = requests.get(
-		"https://raw.githubusercontent.com/XfedeX/reddit-place-script-2022/main/image.jpg").content
+		"https://raw.githubusercontent.com/BitCoinPlace/reddit-place-script-2022/main/image.jpg").content
 	with open("image.jpg", "wb") as handler:
 		handler.write(img_data)
